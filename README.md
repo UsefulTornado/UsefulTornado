@@ -6,13 +6,6 @@
 - 🚀 Now I’m interested in NLP, Telegram bots development and solving algorithmic problems
 - ⚡ In my free time I participate in ML competitions and study to improve my skills
 
-## 📌 Projects
-- [Style Transfer Bot](https://github.com/UsefulTornado/StyleTransfer-bot)
-- [Search Engine](https://github.com/UsefulTornado/Search-engine)
-- [Recommendation systems](https://github.com/UsefulTornado/Recommendation-systems)
-- [Formal Languages algorithms](https://github.com/UsefulTornado/Formal-Languages)
-
-
 ## 🛠️ Technical skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>&nbsp;
